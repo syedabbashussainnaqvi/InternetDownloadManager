@@ -1,1 +1,2 @@
 InternetDownloadManager
+It was also our semester project for Computer Network course. The focus of the project was purely on Socket Programming, Multi-threading, and HTTP protocols. In this project, we developed an HTTP downloader that could download different types of files from the Internet and from a local server. Our downloader supports resuming in case of internet dis-connectivity and multiple simultaneous connections. It also shows downloading speed, total file size in bytes and how many bytes have downloaded. 
